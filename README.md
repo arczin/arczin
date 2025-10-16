@@ -1,6 +1,6 @@
-## Helo :)
+## Hello :)
 
-
+This is my public GitHub, where I push only final projects ;)
 
 <!--
 **arczin/arczin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
