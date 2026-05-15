@@ -1,7 +1,6 @@
-## Hello :)
+## Helo, I've made many of my repos private and deleted a few because i don't want to be associated with the projects i wasn't obsessive about/ loved/ had fun.
 
-This is my public GitHub, where I push only ready projects and their updates ;)
-
+I've made this decision so as not to betray my current belief.
 <!--
 **arczin/arczin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
