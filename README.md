@@ -1,6 +1,4 @@
-## Helo, I've made many of my repos private and deleted a few because i don't want to be associated with the projects i wasn't obsessive about/ loved/ had fun.
-
-I've made this decision so as not to betray my current belief.
+## Helo
 <!--
 **arczin/arczin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
